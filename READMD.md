@@ -1,4 +1,4 @@
-# Video Marker
+# Video Random Marker
 
 This is a tool which can help add random marker for videos.
 
