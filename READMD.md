@@ -22,7 +22,7 @@ poetry install
 
 After above command, you will intall all the required packages.
 
-Then put a video file 
+Then put a video file named `input.mp4` in videos folder.
 
 Then run:
 
@@ -30,6 +30,4 @@ Then run:
 python3 main.py
 ```
 
-```
-
-```
+Next you will see a new `output.mp4` file with random marker.
